@@ -50,7 +50,7 @@ vagrantfile:
                 owner: www-data
                 group: www-data
             vflsf_a91mg5t1a0mk:
-                source: /Users/troywhiteley/Projects/stagebloc-themes
+                source: /change/me/stagebloc-themes
                 target: /var/www/theme-dev/themes
                 sync_type: nfs
                 rsync:
@@ -65,7 +65,7 @@ vagrantfile:
                 owner: www-data
                 group: www-data
             vflsf_p4ndq3nf9m8g:
-                source: /Users/troywhiteley/Projects/howl-web/howl
+                source: /change/me/howl-web/howl
                 target: /var/www/theme-dev/themes/howl-web
                 sync_type: nfs
                 rsync:
